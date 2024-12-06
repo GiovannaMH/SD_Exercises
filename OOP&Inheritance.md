@@ -1,4 +1,4 @@
-Here are other examples of OOP and inheritance exercises:
+Practice makes perfect...
 
 ---
 
